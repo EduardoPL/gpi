@@ -12,3 +12,12 @@ En el Perú, la anemia infantil afecta al 43.6% de los niños y niñas de 6 a 36
 <p id="Parrafo3">Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raíces en una pieza clásica de la literatura del Latín, que data del año 45 antes de Cristo, haciendo que este adquiera más de 2000 años de antigüedad. Richard McClintock, un profesor de Latín de la Universidad de Hampden-Sydney en Virginia, encontró una de las palabras más oscuras de la lengua del latín, "consecteur", en un pasaje de Lorem Ipsum, y al seguir leyendo distintos textos del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.33 de "de Finnibus Bonorum et Malorum" (Los Extremos del Bien y El Mal) por Cícero, escrito en el año 45 antes de Cristo. Este libro es un tratado de teoría de éticas, muy popular durante el Renacimiento. La primera linea del Lorem Ipsum, "Lorem ipsum dolor sit amet..", viene de una línea en la sección 1.10.32</p>
 <p><a href="http://aprendoencasa.com">Visite Aprendoencasa.com</a></p>
 <em>PROBLEMÁTICA
+  <p> 
+En abril de 2017, el Ministerio de Salud aprobó el “Plan Nacional para la Reducción y Control de la Anemia Materno Infantil y la Desnutrición Crónica Infantil en el Perú, 2017-2021”. [2]
+
+En el mes de junio del 2017, el Ministerio de Desarrollo e Inclusión Social aprueba el “Plan sectorial para contribuir con la reducción de la desnutrición crónica infantil y anemia en niñas y niños menores de 36 meses, 2017-2021”. [3]
+
+El Plan Nacional aprobado por el Minsa plantea 15 intervenciones en el marco de los
+Programas Presupuestales “Articulado Nutricional” y “Salud Materno Neonatal”, que a
+continuación se listan<p>
+
