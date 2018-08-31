@@ -8,5 +8,5 @@ jsjsjs
 <p>Esta etiqueta es para indicar que este texto es un párrafo</p>
 <p>un párrafo con una <strong>palabra</strong> resaltada</p>
 <p>visítanos en <em>www.aprendoencasa.com</em>, gracias</p>
-<p style="color:#red;">Mi primera página con estilo</p>
+<p style="color:#red">Mi primera página con estilo</p>
 
