@@ -9,8 +9,7 @@ En el Perú, la anemia infantil afecta al 43.6% de los niños y niñas de 6 a 36
 ¿Por qué la anemia es tan elevada entre los niños peruanos? Porque no consumen alimentos ricos en hierro (y micronutrientes) desde los 6 meses, especialmente el de origen animal como la sangrecita, el pescado y el hígado. Además, se ha reducido la lactancia materna exclusiva, las mujeres embarazadas usualmente no tienen una alimentación saludable, con lo cual corren el riesgo de contraer la anemia o de sufrir de hemorragias. Como consecuencia, sus niños nacen prematuramente y con bajo peso. Otros factores que intervienen son un saneamiento básico pobre, inadecuadas prácticas de higiene y un limitado acceso al paquete completo de cuidado integral de la salud materno infantil.<em>
 
 ## PROBLEMÁTICA
-  <em> 
-En abril de 2017, el Ministerio de Salud aprobó el “Plan Nacional para la Reducción y Control de la Anemia Materno Infantil y la Desnutrición Crónica Infantil en el Perú, 2017-2021”. [2]
+   <em> En abril de 2017, el Ministerio de Salud aprobó el “Plan Nacional para la Reducción y Control de la Anemia Materno Infantil y la Desnutrición Crónica Infantil en el Perú, 2017-2021”. [2]
 
 En el mes de junio del 2017, el Ministerio de Desarrollo e Inclusión Social aprueba el “Plan sectorial para contribuir con la reducción de la desnutrición crónica infantil y anemia en niñas y niños menores de 36 meses, 2017-2021”. [3]
 
