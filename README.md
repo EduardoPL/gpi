@@ -20,3 +20,13 @@ jsjsjs
 <section>Contexto
 </html>
  <p><font color:"red">Este texto está en rojo</font></p>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Primer Ejercicio HTML 5</title>
+</head>
+<body>
+<p>Esperamos que <strong> aprendoencasa.com</strong> sea un lugar donde estéis cómodos</p>
+</body>
+</html>
