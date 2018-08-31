@@ -19,4 +19,4 @@ jsjsjs
 </body>ANEMIA
 <section>Contexto
 </html>
- <p><font color="red">Este texto está en rojo</font></p>
+ <p><font color:"red">Este texto está en rojo</font></p>
