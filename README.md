@@ -9,4 +9,4 @@ jsjsjs
 <p>un párrafo con una <strong>palabra</strong> resaltada</p>
 <p>visítanos en <em>www.aprendoencasa.com</em>, gracias</p>
 <p "color:#red">Mi primera página con estilo</p>
-
+<font size=4>Este texto es más grande</font>
