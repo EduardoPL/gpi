@@ -3,7 +3,7 @@
 <a href="#Problematica">Enlace a Problematica</a><br/>
 <a href="#Estado de Arte">Enlace a Estado de Arte</a><br/>
 </p>
-  <p id="PContexto">La anemia es una enfermedad que se presenta cuando la hemoglobina ha disminuido por debajo de un límite debido a la deficiencia del hierro en el organismo. Afecta principalmente a gestantes, niños menores de dos años comprometiendo a largo plazo su desarrollo y habilidad para el aprendizaje.
+  <p id="Contexto">La anemia es una enfermedad que se presenta cuando la hemoglobina ha disminuido por debajo de un límite debido a la deficiencia del hierro en el organismo. Afecta principalmente a gestantes, niños menores de dos años comprometiendo a largo plazo su desarrollo y habilidad para el aprendizaje.
 
 En el Perú, durante los últimos diez años, su proporción ha sido mayor al 30%, cifra que según la Organización Mundial de la Salud (OMS) es similar a países como Siria (34,9%), Marruecos (34%) y Vietnam (33,9%), y resulta la tercera más alta en América Latina, solo después de Venezuela (62%) y Bolivia (47%). Además, el Perú tiene la mayor prevalencia entre los países de la Alianza del Pacífico: Chile (20%), Colombia (27%) y México (28%).
 
