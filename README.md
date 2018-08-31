@@ -19,5 +19,5 @@ En el mes de junio del 2017, el Ministerio de Desarrollo e Inclusión Social apr
 
 El Plan Nacional aprobado por el Minsa plantea 15 intervenciones en el marco de los
 Programas Presupuestales “Articulado Nutricional” y “Salud Materno Neonatal”, que a
-continuación se listan<p>
+continuación se listan:
 
