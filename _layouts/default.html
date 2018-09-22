@@ -16,6 +16,7 @@
       {% if site.show_downloads %}
         <a href="/" class="btn">Inicio</a>
         <a href="/problem/problem.html" class="btn">Problema</a>
+      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
@@ -36,8 +37,7 @@
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
         ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      
+        ga('send', 'pageview')
       </script>
     {% endif %}
   </body>
